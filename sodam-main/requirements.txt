@@ -1,0 +1,9 @@
+flask
+flask-cors
+python-dotenv
+SQLAlchemy
+alembic
+flask-migrate
+marshmallow
+marshmallow-sqlalchemy
+pandas

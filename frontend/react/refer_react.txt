@@ -1,0 +1,3 @@
+// React 자리 (추후 SPA로 교체 예정)
+// NOTE: 실제 구현 시 backend/templates/index.html + backend/static/* 를 대체합니다.
+// API: /api/auth/*, /api/recs/* 호출만 유지하면 됩니다.
